@@ -5,7 +5,7 @@ Projeto consiste em criar uma tabela hash, onde fariamos a ordenação dos estad
 1. O DF deveria ficar na posição 7
 2. Deveria inserir a minha inicial do nome e sobrenome, assim como o nome e sobrenome completo - Juan Frois(JF)
 
-***Abaixo imagens do código funcionando com dada tipo de saída do nosso menu:
+**Abaixo imagens do código funcionando com dada tipo de saída do nosso menu:**
 ![image](https://github.com/user-attachments/assets/893b930e-8c8e-42be-93c2-97a662fa9984)
 
 --> Listar as posições existentes da nossa tabela hash:
