@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TabelaHash-Python</title>
-</head>
-<body>
-    <h1>TabelaHash-Python</h1>
+
+<h1>TabelaHash-Python</h1>
     <p>
         Este projeto demonstra a implementação de uma <strong>tabela hash</strong> em Python, com o objetivo de organizar os estados brasileiros em 10 posições de uma tabela, utilizando suas siglas e nomes completos. 
         O projeto inclui funcionalidades adicionais, como a inserção personalizada das iniciais e nome do desenvolvedor na tabela hash.
@@ -94,5 +87,3 @@
         <li><code>menu()</code>: Exibe o menu interativo e processa as opções escolhidas pelo usuário.</li>
     </ul>
 
-  </body>
-</html>
